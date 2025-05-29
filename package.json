@@ -1,6 +1,6 @@
 {
   "name": "pygcli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node.js CLI toolkit to connect Linux commands, GCP APIs, and Python workflows.",
   "main": "lib/index.js",
   "bin": {
@@ -23,7 +23,7 @@
     "interop"
   ],
   "dependencies": {
-    "chalk": "^5.3.0",
+    "chalk": "^4.1.2",
     "commander": "^11.0.0",
     "dotenv": "^16.0.0"
   }
