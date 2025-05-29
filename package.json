@@ -1,0 +1,30 @@
+{
+  "name": "pygcli",
+  "version": "0.1.0",
+  "description": "Node.js CLI toolkit to connect Linux commands, GCP APIs, and Python workflows.",
+  "main": "lib/index.js",
+  "bin": {
+    "pygcli": "bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js",
+    "test": "echo \"No tests yet\""
+  },
+  "author": "Raghava Chellu",
+  "license": "MIT",
+  "keywords": [
+    "linux",
+    "gcp",
+    "python",
+    "cli",
+    "automation",
+    "cloud",
+    "devops",
+    "interop"
+  ],
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
