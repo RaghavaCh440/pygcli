@@ -1,4 +1,4 @@
-[![NPM Downloads](https://img.shields.io/npm/dw/pygcli.svg)](https://www.npmjs.com/package/pygcli)
+[![Total Downloads](https://img.shields.io/npm/dt/pygcli.svg)](https://www.npmjs.com/package/pygcli)
 
 # pygcli
 
