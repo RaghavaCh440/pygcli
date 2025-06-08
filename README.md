@@ -1,6 +1,8 @@
+[![NPM Downloads](https://img.shields.io/npm/dw/pygcli.svg)](https://www.npmjs.com/package/pygcli)
+
 # pygcli
 
-pygcli is a command-line toolkit that unifies Linux shell commands, Google Cloud operations, and Python workflows in one NPM package.
+pygcli is a versatile command-line toolkit designed to streamline and unify workflows that span traditional Linux shell operations, Google Cloud Platform (GCP) services, and Python scripting. By packaging these capabilities into a single NPM module, pygcli enables developers, DevOps engineers, and cloud administrators to bridge gaps between local system administration, cloud automation, and dynamic scripting. It abstracts complex command sequences into intuitive CLI commands, significantly reducing manual effort and scripting overhead. With support for common Linux utilities, seamless integration with GCP SDK commands, and the ability to execute Python-based automation tasks, pygcli empowers users to orchestrate cross-platform operations from a single interface. This makes it ideal for managing infrastructure, deploying services, or running hybrid workflows across on-premise and cloud environments with speed and consistency.
 
 ##  Features
 - Run Linux shell commands from Node.js
